@@ -10,7 +10,7 @@
 #### 2. Set up target URL and parameters:
     target = "http://127.0.0.1:5000"
     usernames = ["admin", "user", "test"]
-    passwords = "top-1oo-list.txt"
+    passwords = "top-100-list.txt"
     needle = "Welcome Back"
 <br>
 
