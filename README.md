@@ -4,6 +4,10 @@
  _A web application you are authorized to test is required to test this script._
  <br>
  <br>
+
+ ### Screenshots:
+ <img width="471" alt="Screenshot 2024-11-01 202611" src="https://github.com/user-attachments/assets/617cf3a2-efb5-4ddf-a54f-a974c445b8fd">
+
  
 ### Steps to perform Brute Forcing on Login Pages using the provided script:
 
