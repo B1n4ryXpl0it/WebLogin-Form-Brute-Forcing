@@ -1,6 +1,11 @@
 # Web-Login-Form-Brute-Forcing
 
-## Steps to perform Brute Forcing on Login Pages using the provided script:
+## _Note:_
+ _A web application you are authorized to test is required to test this script._
+ <br>
+ <br>
+ 
+### Steps to perform Brute Forcing on Login Pages using the provided script:
 
 #### 1. Import required libraries:
     import requests
